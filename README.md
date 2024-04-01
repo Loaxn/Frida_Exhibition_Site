@@ -1,4 +1,8 @@
-# frida
+# frida: au-delà de l'icône
+
+Contexte : Dans le cadre d'un projet universitaire, notre équipe composée de six membres a été chargée de créer une exposition virtuelle mettant en avant une artiste féminine : Frida Kahlo. Cette tâche passionnante nous a amenés à explorer l'œuvre et la vie de cette figure emblématique de l'art, et à développer une exposition immersive et captivante pour partager sa vision avec le public.
+
+
 Procédures de restauration
 
 Site de réservation, API et VR:
