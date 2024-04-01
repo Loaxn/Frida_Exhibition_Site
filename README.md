@@ -2,10 +2,13 @@
 
 Contexte : Dans le cadre d'un projet universitaire, notre équipe composée de six membres a été chargée de créer une exposition virtuelle mettant en avant une artiste féminine : Frida Kahlo. Cette tâche passionnante nous a amenés à explorer l'œuvre et la vie de cette figure emblématique de l'art, et à développer une exposition immersive et captivante pour partager sa vision avec le public.
 
+# Contributeurs
+Alina Zhyla, Hugo Lecerf, Loana Chalach
 
-Procédures de restauration
 
-Site de réservation, API et VR:
+# Procédures de restauration
+
+# Site de réservation, API et VR:
 1. Configurer le nom de domaine sur l'hébergeur
 2. Créer une base de données et importer le fichier MySQL expo_frida.sql qui se trouve dans le dossier api 
 3. Importer le dossier du site contenant le site de réservation, l'API et la VR dans public_html
@@ -15,7 +18,7 @@ Site de réservation, API et VR:
 
 On peut aussi héberger le site de réservation, l'API et la VR séparement avec la même procédure
 
-Back-office:
+# Back-office:
 Deployment avec vercel
 
 1. Ouvrir le terminal
@@ -25,7 +28,7 @@ Deployment avec vercel
 5. Compiler le dossier: npm run build
 6. Le dépoloyer avec la commande: vercel (si le site est déjà en ligne faire pour le mettre à jour: vercel --prod)
 
-Word-press:
+# Word-press:
 
 Comment importer notre site Wordpress chez un nouvel herbergeur :  
 1. Connectez-vous chez votre nouvel hébergeur puis aller dans le gestionnaire de fichiers de votre hébergeur. Téléversez le fichier zip contenant les fichiers WordPress dans le répertoire racine de votre nouveau serveur.  
